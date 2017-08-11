@@ -1,2 +1,2 @@
 # jslippa
-Javascript client for slippa
+Javascript client for slippa service.
